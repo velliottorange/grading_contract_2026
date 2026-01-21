@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 19 2026
+January 21 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
